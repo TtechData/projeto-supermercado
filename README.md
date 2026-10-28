@@ -78,3 +78,8 @@ projeto-supermercado/
 O projeto demonstra como os algoritmos Bubble Sort e Quick Sort podem ser utilizados para resolver um problema cotidiano de organização de dados.
 
 Embora ambos produzam o mesmo resultado, utilizam estratégias diferentes de ordenação e apresentam diferenças de desempenho conforme a quantidade e a disposição dos dados.
+
+10. Testes realizados
+O programa utiliza 10 preços fictícios de produtos. Os resultados são apresentados em ordem crescente após a execução dos algoritmos Bubble Sort e Quick Sort.
+
+A validação consiste em verificar se ambos produzem a mesma sequência ordenada e se todos os preços originais estão presentes nos resultados.
