@@ -83,3 +83,9 @@ Embora ambos produzam o mesmo resultado, utilizam estratégias diferentes de ord
 O programa utiliza 10 preços fictícios de produtos. Os resultados são apresentados em ordem crescente após a execução dos algoritmos Bubble Sort e Quick Sort.
 
 A validação consiste em verificar se ambos produzem a mesma sequência ordenada e se todos os preços originais estão presentes nos resultados.
+
+11. Execução on-line
+O programa pode ser consultado e executado pelo OnlineGDB.
+
+Código-fonte: (https://onlinegdb.com/0_rwnRRQ1)
+Execução on-line: <script src="//onlinegdb.com/embed/js/0_rwnRRQ1?theme=dark"></script>
